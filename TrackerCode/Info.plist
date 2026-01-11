@@ -14,19 +14,19 @@
     <string>Nearby Interaction is used for the Precise Find feature.</string>
     <key>NSNearbyInteractionUsageDescription</key>
     <string>Nearby Interaction is used for the Precise Find feature.</string>
-	<key>FindMyCat-Cloud-Hostname</key>
-	<string>your-findmycat-cloud-hostname</string>
+	<key>Hostname</key>
+	<string>hostname</string>
 	<key>HologramAPIKey</key>
 	<string>your-hologram-key</string>
 	<key>HologramOrgId</key>
 	<integer>9999</integer>
 	<key>MBXAccessToken</key>
-	<string>your-mapbox-access-token</string>
+	<string>pk.eyJ1Ijoib2xpYmExMiIsImEiOiJjbWp3b3B0ZWEyN2d3M2Rxc3pqdTdwcWwyIn0.bC6mrF6L9albDQ4lAGaTTA</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>your-findmycat-cloud-hostname</key>
+			<key>hostname</key>
 			<dict>
 				<key>NSIncludesSubdomains</key>
 				<true/>
